@@ -1,0 +1,2 @@
+SELECT * FROM courses
+WHERE id_courses BETWEEN 1 AND 10
